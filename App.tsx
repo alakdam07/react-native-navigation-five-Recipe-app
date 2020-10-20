@@ -44,7 +44,7 @@ export default function App() {
           }}
 
         />
-        <Drawer.Screen name="Notifications"
+        <Drawer.Screen name="Detail"
           component={Detail}
           options={{
             title: 'Detail',
